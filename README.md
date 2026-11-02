@@ -15,10 +15,7 @@ To mój projekt rekrutacyjny do koła naukowego **SKAR**.
 - [Oprogramowanie](#oprogramowanie)
 - [Druk 3D](#druk-3d)
 - [Struktura repozytorium](#struktura-repozytorium)
-- [Problemy i rozwiązania](#problemy-i-rozwiązania)
 - [Status projektu](#status-projektu)
-- [Plany rozwoju](#plany-rozwoju)
-
 ---
 
 ## Parametry
