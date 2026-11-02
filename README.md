@@ -211,13 +211,12 @@ rc-car/
 ---
 
 ## Status projektu
-
+- [x] Lutowanie zasilania (BMS, koszyk na baterie, moduł USB-C)
 - [x] Projekt tylnej osi, napędu i obudów łożysk
 - [x] Projekt układu kierowniczego z weryfikacją geometrii Ackermanna
 - [x] Druk zębatek i dopasowanie pasowań
 - [ ] Mocowanie serwa i płytki elektroniki w podwoziu
 - [ ] Druk i montaż układu kierowniczego
-- [ ] Lutowanie płytki zasilania
 - [ ] Oprogramowanie (pad PS5, failsafe)
 - [ ] Pierwsza jazda i pomiar prędkośc
 
